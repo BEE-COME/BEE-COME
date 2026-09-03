@@ -82,5 +82,22 @@ $ uptime
 ![Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,react,vite&theme=dark)
 
 ---
+
+### 📈 战绩面板 (Stats)
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BEE-COME&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=E6EBF5&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEE-COME&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=E6EBF5&bg_color=00000000" />
+</div>
+
+![Streak](https://streak-stats.demolab.com?user=BEE-COME&theme=dark&hide_border=true&ring=7DD3FC&fire=FBBF24&currStreakLabel=7DD3FC&background=00000000)
+
+![Views](https://komarev.com/ghpvc/?username=BEE-COME&color=2563eb&style=flat-square&label=主页访问量)
+
+---
+
+### 🐍 贡献小蛇
+![Snake](https://raw.githubusercontent.com/BEE-COME/BEE-COME/output/github-contribution-grid-snake-dark.svg)
+
+---
 > 🚀 **System Status:** All systems operational.
 > 🛠️ **Infrastructure:** 咖啡因驱动，hosted on GitHub Pages.
