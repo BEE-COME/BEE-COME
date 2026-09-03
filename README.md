@@ -1,6 +1,9 @@
 # 🚀 BEE-COME | Digital Workbench
 
-欢迎来到我的开发者工作台。这里是我将**嵌入式开发**、**量化分析**与 **AI 实验** 结合的产物。
+🧑‍💻 白天跟单片机讲道理（`C` / `C++` / `C#`），晚上和浏览器谈恋爱（`JS` / `HTML`）。
+主业嵌入式，副业全栈发烧友：做过 HMI、玩过 ESP32，写过 A 股猎手，还拿 OpenCV 作弊破解迷宫。
+2026 年突然高产，批量上线网页小玩具——点开即玩，坏了就修。
+信条：**能写工具，就绝不多点一下鼠标。**
 
 ---
 
@@ -11,7 +14,6 @@
 | :--- | :--- | :--- | :--- |
 | **🔢 ASCII Converter** | ![Active](https://img.shields.io/badge/Status-Live-green) | `React` `Vite` | [点击进入](https://BEE-COME.github.io/asclltonum/) |
 | **✏️ SVG 在线修改工具** | ![Active](https://img.shields.io/badge/Status-Live-green) | `HTML` `JS` `SVG` | [点击进入](https://BEE-COME.github.io/svg-editor/) |
-| **⚡ UDS Protocol Tool** | ![In Progress](https://img.shields.io/badge/Status-WIP-orange) | `Python` `WASM` | (待部署) |
 
 ---
 
