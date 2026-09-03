@@ -10,6 +10,7 @@
 | 项目 | 状态 | 技术栈 | 访问链接 |
 | :--- | :--- | :--- | :--- |
 | **🔢 ASCII Converter** | ![Active](https://img.shields.io/badge/Status-Live-green) | `React` `Vite` | [点击进入](https://BEE-COME.github.io/asclltonum/) |
+| **✏️ SVG 在线修改工具** | ![Active](https://img.shields.io/badge/Status-Live-green) | `HTML` `JS` `SVG` | [点击进入](https://BEE-COME.github.io/svg-editor/) |
 | **⚡ UDS Protocol Tool** | ![In Progress](https://img.shields.io/badge/Status-WIP-orange) | `Python` `WASM` | (待部署) |
 
 ---
