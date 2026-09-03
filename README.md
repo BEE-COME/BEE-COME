@@ -20,8 +20,8 @@ $ uptime
 
 | 项目 | 状态 | 技术栈 | 访问链接 |
 | :--- | :--- | :--- | :--- |
-| **🔢 ASCII Converter** | ![Active](https://img.shields.io/badge/Status-Live-green) | `React` `Vite` | [点击进入](https://BEE-COME.github.io/asclltonum/) |
-| **✏️ SVG 在线修改工具** | ![Active](https://img.shields.io/badge/Status-Live-green) | `HTML` `JS` `SVG` | [点击进入](https://BEE-COME.github.io/svg-editor/) |
+| **🔢 ASCII Converter** | ![Active](https://img.shields.io/badge/Status-Live-green) | `React` `Vite` | [点击进入](https://BEE-COME.github.io/asclltonum/) · [仓库](https://github.com/BEE-COME/asclltonum) |
+| **✏️ SVG 在线修改工具** | ![Active](https://img.shields.io/badge/Status-Live-green) | `HTML` `JS` `SVG` | [点击进入](https://BEE-COME.github.io/svg-editor/) · [仓库](https://github.com/BEE-COME/svg-editor) |
 
 ---
 
@@ -34,9 +34,11 @@ $ uptime
 * **[🎯 猜数字游戏](https://bee-come.github.io/caishuzi/)**
     * *功能：* 练习基础算法逻辑。
     * *标签：* `Game` `Logic`
+    * *仓库：* [BEE-COME/caishuzi](https://github.com/BEE-COME/caishuzi)
 * **[📊 凯利公式测试](https://bee-come.github.io/keili/)**
     * *功能：* 模拟仓位管理与风险控制。
     * *标签：* `Finance` `Math`
+    * *仓库：* [BEE-COME/keili](https://github.com/BEE-COME/keili)
 
 ---
 
