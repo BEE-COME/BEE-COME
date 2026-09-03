@@ -1,9 +1,17 @@
 # 🚀 BEE-COME | Digital Workbench
 
-🧑‍💻 白天跟单片机讲道理（`C` / `C++` / `C#`），晚上和浏览器谈恋爱（`JS` / `HTML`）。
-主业嵌入式，副业全栈发烧友：做过 HMI、玩过 ESP32，写过 A 股猎手，还拿 OpenCV 作弊破解迷宫。
-2026 年突然高产，批量上线网页小玩具——点开即玩，坏了就修。
-信条：**能写工具，就绝不多点一下鼠标。**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7DD3FC&width=600&lines=能写工具，就绝不多点一下鼠标。;白天拧单片机，晚上写网页。;点开即玩，坏了就修。)](https://git.io/typing-svg)
+
+```console
+$ whoami
+🧑‍💻 嵌入式工程师（C / C++ / C#），兼职深夜全栈（JS / HTML / Python）
+$ cat 履历.txt
+做过 HMI、玩过 ESP32，写过 A 股猎手，还拿 OpenCV 作弊破解迷宫
+$ uptime
+2026 年突然高产，网页小玩具批量上线中……
+```
+
+> 🆕 **最新上架**：[✏️ SVG 在线修改工具](https://BEE-COME.github.io/svg-editor/) —— 拖拽改图、保真保存，单文件即用。
 
 ---
 
@@ -71,11 +79,8 @@
 ---
 
 ### 📊 个人技能雷达 (Skill Stack)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded-C/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,react,vite&theme=dark)
 
 ---
 > 🚀 **System Status:** All systems operational.
-> 🛠️ **Infrastructure:** Powered by React + Vite, hosted on GitHub Pages.
+> 🛠️ **Infrastructure:** 咖啡因驱动，hosted on GitHub Pages.
