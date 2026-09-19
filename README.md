@@ -11,7 +11,15 @@ $ uptime
 2026 年突然高产，网页小玩具批量上线中……
 ```
 
-> 🆕 **最新上架**：[✏️ SVG 在线修改工具](https://BEE-COME.github.io/svg-editor/) —— 拖拽改图、保真保存，单文件即用。
+> 📚 **最新项目**：[单词学习本](https://github.com/BEE-COME/ai-passport) —— 离线 850 词、发音、每日学习与自测，把 AI Passport 变成随身英语学习本。
+>
+> 🧰 **近期工具**：[✏️ SVG 在线修改工具](https://BEE-COME.github.io/svg-editor/) —— 拖拽改图、保真保存，单文件即用。
+
+### 📚 AI Passport 玩法
+
+| 项目 | 状态 | 亮点 | 源码 |
+| :--- | :--- | :--- | :--- |
+| **单词学习本** | ![Pending Review](https://img.shields.io/badge/Status-Pending-yellow) | `850 词` `离线发音` `每日学习` `三选一自测` `生词本` | [仓库](https://github.com/BEE-COME/ai-passport) |
 
 ---
 
